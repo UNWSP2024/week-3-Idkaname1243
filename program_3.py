@@ -20,7 +20,7 @@ def weight_conversion(weight):
         shippingCost = 4
     if weight > 10:
         shippingCost = 4.75
-
+#simple program to classify the weight and them display a shipping cost = to each
 
     return shippingCost
 
